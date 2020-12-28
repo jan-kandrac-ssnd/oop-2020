@@ -1,4 +1,4 @@
-package xyz.kandrac.practice8;
+package xyz.kandrac.practice8.exercise1;
 
 import xyz.kandrac.practice8.exercise1.CardSorter;
 
